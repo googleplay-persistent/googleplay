@@ -4,6 +4,10 @@ go 1.19
 
 require github.com/googleplay-persistent/rosso v1.3.7
 
+replace (
+     github.com/googleplay-persistent/rosso v1.3.7 => ../rosso/
+)
+                                                         
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
 	github.com/klauspost/compress v1.16.3 // indirect
