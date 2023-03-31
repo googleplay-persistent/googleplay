@@ -1,8 +1,8 @@
 package googleplay
 
 import (
-   "2a.pages.dev/rosso/http"
-   "2a.pages.dev/rosso/protobuf"
+   "github.com/googleplay-persistent/rosso/http"
+   "github.com/googleplay-persistent/rosso/protobuf"
    "strconv"
    "time"
 )

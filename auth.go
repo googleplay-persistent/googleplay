@@ -1,9 +1,9 @@
 package googleplay
 
 import (
-   "2a.pages.dev/rosso/http"
-   "2a.pages.dev/rosso/protobuf"
-   "2a.pages.dev/rosso/tls"
+   "github.com/googleplay-persistent/rosso/http"
+   "github.com/googleplay-persistent/rosso/protobuf"
+   "github.com/googleplay-persistent/rosso/tls"
    "bufio"
    "io"
    "net/url"

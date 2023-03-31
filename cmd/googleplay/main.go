@@ -1,8 +1,8 @@
 package main
 
 import (
-   "2a.pages.dev/googleplay"
-   "2a.pages.dev/rosso/http"
+   "github.com/googleplay-persistent/googleplay"
+   "github.com/googleplay-persistent/rosso/http"
    "flag"
    "fmt"
    "os"

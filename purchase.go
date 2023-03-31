@@ -1,6 +1,6 @@
 package googleplay
 
-import "2a.pages.dev/rosso/http"
+import "github.com/googleplay-persistent/rosso/http"
 
 // Purchase app. Only needs to be done once per Google account.
 func (h Header) Purchase(doc string) error {
